@@ -15,12 +15,10 @@ Since this modpack only contains client side mods, you can play on any server or
 ### Updated and Supported
 Vo+ recieves fast updates and will keep any mod setting if the original mod creator didn't change anything. If you encounter any issues please write it in the GitHub page
 
-| Title 1             | Title 2               | Title 3              |
-|---------------------|:---------------------:|---------------------:|
-| Cell 1:1            | Cell 1:2              | Cell 1:3             |
-| Cell 2:1            | Cell 2:2              | Cell 2:3             |
-| Cell 3:1            | Cell 3:2              | Cell 3:3             |
-| Left-aligned column | Center-aligned column | Right-aligned column |
+| **Version Guide** | ****     |
+|-------------------|----------|
+| Vo+               | Dark UI  |
+| Vo+ LM            | Light UI |
 
 ## FAQ
 > Q: How do I turn off the dark mode?
