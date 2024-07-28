@@ -15,10 +15,10 @@ Since this modpack only contains client side mods, you can play on any server or
 ### Updated and Supported
 Vo+ recieves fast updates and will keep any mod setting if the original mod creator didn't change anything. If you encounter any issues please write it in the GitHub page
 
-| **Version Guide** | ****     |
-|-------------------|----------|
-| Vo+               | Dark UI  |
-| Vo+ LM            | Light UI |
+| **Version Guide** | **UI Type** |
+|-------------------|-------------|
+| Vo+               | Dark UI     |
+| Vo+ LM            | Light UI    |
 
 ## FAQ
 > Q: How do I turn off the dark mode?
