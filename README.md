@@ -17,6 +17,7 @@ Vo+ recieves fast updates and will keep any mod setting if the original mod crea
 
 ### Versions Guide
 Vo+: Dark UI
+
 Vo+ LM: Light UI
 
 ## FAQ
