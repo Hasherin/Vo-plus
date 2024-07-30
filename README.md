@@ -2,15 +2,27 @@ Simple and lightweight modpack to optimize the vanilla Minecraft experience.
 
 ### Performance
 The modpack includes [Sodium](https://modrinth.com/mod/sodium), [Lithium](https://modrinth.com/mod/lithium), and other mods like these to maximize your frames!
+<br>
+
+</br>
 
 ### OptiFine Support
-Right now the pack doesn't include mods for OptiFine features, however, it will be included in the future!
+The pack supports OptiFine resource packs!
+<br>
+
+</br>
 
 ### Beauty, in vanilla?
 With [Iris Shaders](https://modrinth.com/mod/iris) mod and a default shader set, the game is gorgeous for an "unmodded" pack, but of course, you can turn the shader off if you would like, and for your eyes, most of the UI is in dark mode, with the help of [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/) resource pack.
+<br>
+
+</br>
 
 ### Everywhere, everytime
 Since this modpack only contains client side mods, you can play on any server or world!
+<br>
+
+</br>
 
 ### Updated and Supported
 Vo+ recieves fast updates and will keep any mod setting if the original mod creator didn't change anything. If you encounter any issues please write them in the GitHub page.
@@ -19,6 +31,9 @@ Vo+ recieves fast updates and will keep any mod setting if the original mod crea
 |-------------------|-------------|
 | Vo+               | Dark UI     |
 | Vo+ LM            | Light UI    |
+<br>
+
+</br>
 
 ## FAQ
 > Q: How do I turn off the dark mode?
